@@ -4,3 +4,4 @@ export SABINE_IP_ADDR= 192.168.__
 uhping
 uhlog
 capture 10 --preset VP104
+he basic principle behind radar is simple - extremely short bursts of radio energy (traveling at the speed of light) are transmitted, reflected off a target and then returned as an echo. Radar makes use of a phenomenon we have all observed, that of the ECHO PRINCIPLE.
