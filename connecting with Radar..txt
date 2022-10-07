@@ -5,3 +5,4 @@ uhping
 uhlog
 capture 10 --preset VP104
 he basic principle behind radar is simple - extremely short bursts of radio energy (traveling at the speed of light) are transmitted, reflected off a target and then returned as an echo. Radar makes use of a phenomenon we have all observed, that of the ECHO PRINCIPLE.
+The term pull is used to receive data from GitHub. It fetches and merges changes from the remote server to your working directory. The git pull command is used to pull a repository. Pull request is a process for a developer to notify team members that they have completed a feature.
